@@ -1,0 +1,1 @@
+# nuxtjs_api_factories
